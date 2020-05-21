@@ -1,11 +1,11 @@
 {
-    "name": "licenseuidemo",
-    "short_name": "licenseuidemo",
+    "name": "new_license_ui",
+    "short_name": "new_license_ui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A demo to show off the new license page UI.",
+    "description": "A demonstration of the new license page.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
